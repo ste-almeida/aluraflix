@@ -1,6 +1,6 @@
 body {
-    color:rgb(238, 33, 146);
-    background: rgb(230, 28, 89);
+    color:rgb(241, 235, 239);
+    background: pink;
     margin: 0px;
     font-family:"Bona Nova SC", serif;
     margin-bottom:100px;
@@ -10,6 +10,13 @@ header {
     border-bottom: solid 2px pink;
     padding: 20px;
     font-size: 32px;
-    color: palevioletred;
+    color: pink;
 }
 
+.chamada {
+    background: rgb(230, 28, 89) ;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
